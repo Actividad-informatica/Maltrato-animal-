@@ -23,13 +23,6 @@
 <br>
 <center>
 <font size="3">
-La información extraído de:<br>
-<a href="https://concepto">Concepto de</a><br>
-<a href="https://www.significados.com/">Significados</a><br>
-<a href="https://www.gob.mx/segob/articulos/que-es-la-identidad-de-genero">¿Qué es la Identidad de Género?</a><br>
-<a href="https://www.plannedparenthood.org/">plannedparenthood</a><br>
-<a href="https://youtu.be/j7UfEup8T_Q">Identidad de Género - Educación Sexual</a><br>
-<a href="https://youtu.be/FB-foMxkJis">¿Qué es la Amistad y su importancia?</a><br>
-<a href="https://youtu.be/r-Cfil-yBVY">Diferencias entre Enamoramiento y Amor</a><br>
+La información fue extraído de:<br>
 <h2><a href =" Unidad 1 Conociendo la Sexualidad Humana.html " > Indice </a></h2><br>
   <br>
